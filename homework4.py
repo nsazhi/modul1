@@ -1,4 +1,4 @@
-my_string=input("Введите текст: ")
+my_string = input("Введите текст: ")
 print('В вашем тексте',len(my_string),'символов.')
 print('Текст в верхнем регистре:',my_string.upper())
 print('Текст в нижнем регистре:',my_string.lower())
